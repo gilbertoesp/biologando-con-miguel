@@ -11,5 +11,5 @@ Landing page que nos habla acerca de Miguel dando a conocer las diferentes espec
 
 **¿Cuál es mi objetivo?** Quiero que mi amigo tenga un sitio web que invite a seguirlo en su canal de Youtube.
 
-## Diseño
+## Para compartir libremente.
 
