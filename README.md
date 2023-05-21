@@ -13,3 +13,5 @@ Landing page que nos habla acerca de Miguel dando a conocer las diferentes espec
 
 ## Para compartir libremente.
 
+Es uno de mis diez primeros proyectos en web.
+
